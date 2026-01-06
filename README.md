@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Minhaj Shaikh<br><br>🚀 Passionate Backend Developer specializing in Python with frameworks Django and Flask<br>🛠️ Skilled in building REST APIs, scalable backend systems, and integrating OpenAI GenAI models<br>⚙️ Tools: Django · Flask · FastAPI · Celery · Docker · PostgreSQL  · Git<br>📦 Currently working on AI-driven web apps and productivity tools<br>.Contact mail id <shaikhminhaj8850@gmail.com>
+👋 Hi, I'm Minhaj Shaikh<br><br>🚀 Passionate Backend Developer specializing in Python with frameworks Django and Flask<br>🛠️ Skilled in building REST APIs, scalable backend systems, and integrating OpenAI GenAI models<br>⚙️ Tools: Django · Flask · FastAPI · Celery · Docker · PostgreSQL  · Git<br>📦 Currently working on AI-driven web apps and productivity tools<br> Contact mail id <shaikhminhaj8850@gmail.com>
 ## 🌐 Socials:
 Let’s connect: <https://www.linkedin.com/in/minhaj-sk/>
 
